@@ -1,5 +1,5 @@
-import isObject from 'lodash.isobject';
-import merge from 'lodash.merge';
+import isObject from 'lodash/isObject';
+import merge from 'lodash/merge';
 
 export default (oldState, newState) => {
     const result = { ...oldState };
