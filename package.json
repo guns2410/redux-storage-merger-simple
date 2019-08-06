@@ -42,7 +42,6 @@
     "release-it": "^2.3.1"
   },
   "dependencies": {
-    "lodash.isobject": "^3.0.2",
-    "lodash.merge": "^4.3.1"
+    "lodash": "^4.17.11"
   }
 }
